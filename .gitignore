@@ -1,0 +1,6 @@
+.venv
+cfg_explanations/
+data/
+cfg_gcn_requested*
+full_training.log 
+

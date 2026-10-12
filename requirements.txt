@@ -1,0 +1,13 @@
+angr==9.2.89
+bitstring==3.1.9
+pycparser<3
+networkx
+numpy
+pandas
+scikit-learn
+tqdm
+jupyter
+ipykernel
+torch 
+torch-geometric
+captum
