@@ -18,7 +18,7 @@ from torch_geometric.nn import GCNConv, global_mean_pool
 DATA_ROOT = Path("data/cic_dgg_2025/cfgs")
 
 CHECKPOINT = Path(
-    "cfg_gcn_requested_all_usable_1261_epochs_50_best.pt"
+    "cfg_gcn_requested_all_usable_1261_epochs_100_best.pt"
 )
 
 OUTPUT_DIR = Path("cfg_explanations")
