@@ -2,7 +2,7 @@
 
 **Status:** Preliminary results for discussion and review
 
-## Executive summary
+## Experiment summary
 
 I used the already-trained CFG-GCN model to see how much its predictions and explanations change when CFG edges are removed. The classifier gets 92.61% accuracy on the 379 held-out CFGs (137 benign and 242 malicious). The main result is that the predictions are fairly stable under moderate changes, while the gradient-based explanations start changing much earlier.
 
